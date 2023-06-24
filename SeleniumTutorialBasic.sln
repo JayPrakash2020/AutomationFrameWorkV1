@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTutorialBasic", "SeleniumTutorialBasic.csproj", "{DA081029-66FD-486A-BD42-EB1238119DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationV1", "..\AutomationV1\AutomationV1.csproj", "{DFE1B15A-DCE1-410E-9FDE-D658A0815699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA081029-66FD-486A-BD42-EB1238119DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA081029-66FD-486A-BD42-EB1238119DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA081029-66FD-486A-BD42-EB1238119DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA081029-66FD-486A-BD42-EB1238119DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE1B15A-DCE1-410E-9FDE-D658A0815699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE1B15A-DCE1-410E-9FDE-D658A0815699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE1B15A-DCE1-410E-9FDE-D658A0815699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE1B15A-DCE1-410E-9FDE-D658A0815699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C17E0135-1F06-4BCE-BE5F-8D325F153E99}
+	EndGlobalSection
+EndGlobal
